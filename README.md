@@ -24,12 +24,15 @@ I graduated from the College of Computing and Artificial Intelligence in 2020, I
 
 - ⚡ One Fact **I have super power to learn and extend my pref**
 
+### CV 
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hamada-emam-ab5042227" target="blank"><img align="center" src="https://images.unsplash.com/photo-1516397281156-ca07cf9746fc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" alt="https://www.linkedin.com/in/hamada-emam-ab5042227" height="30" width="40" /></a>
 <a href="https://www.github.com/emamHamada" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/emamHamada?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 <p align="left">
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -40,8 +43,6 @@ src="https://img.shields.io/github/followers/emamHamada?logo=github&style=for-th
 
 </p>
 
-### CV 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hamada-emam-ab5042227" target="blank"><img align="center" src="https://images.unsplash.com/photo-1516397281156-ca07cf9746fc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" alt="https://www.linkedin.com/in/hamada-emam-ab5042227" height="30" width="40" /></a>
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/emamHamada" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
@@ -56,10 +57,11 @@ src="https://img.shields.io/github/followers/emamHamada?logo=github&style=for-th
 <a href="http://www.github.com/emamHamada"><img src="https://github-readme-stats.vercel.app/api?username=emamHamada&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="emamHamada's GitHub stats" /></a>
 
 <a href="http://www.github.com/emamHamada"><img src="https://github-readme-streak-stats.herokuapp.com/?user=emamHamada&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
+<span>
 <a href="http://www.github.com/emamHamada"><img src="https://activity-graph.herokuapp.com/graph?username=emamHamada&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/emamHamada" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emamHamada&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  </span>
 
 <!-- <b>Top Repositories</b>
 
