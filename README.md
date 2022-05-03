@@ -10,7 +10,7 @@ I graduated from the College of Computing and Artificial Intelligence in 2020, I
 * ✉️  You can contact me at [hamada152emam@gmail.com](mailto:hamada152emam@gmail.com )
 <!--   I'm learning Flutter Development -->
 
-* 🧠 I’m currently learning **flutter @ react learning**
+* 🧠 I’m currently learning **flutter @ react **
 
 - 🤝 I’m looking for help to **have an opportunity as developer**
 
