@@ -1,7 +1,7 @@
 Hi 👋 My name is Hamada Emam
 ============================
 
-Software Engineer , Flutter Developer
+Software Engineer , Software Developer 
 -------------------------------------
 
 I graduated from the College of Computing and Artificial Intelligence in 2020, I finished the military service in the beginning of 2022, I started reviewing the study materials, and besides this I took flutter courses to start my work, and of course I have experience in all the tools that I deal with as a beginner in the field.
@@ -16,7 +16,7 @@ I graduated from the College of Computing and Artificial Intelligence in 2020, I
 
 <!-- - 👨‍💻 All of my projects are available at [willbe.hamada.com](willbe.hamada.com) -->
 
-- 💬 Ask me about **flutter @ react**
+- 💬 Ask me about ** JAVA @ flutter @ react**
 
 <!-- - 📫 How to reach me **hamada152emam@gmail.com** -->
 <!-- 
