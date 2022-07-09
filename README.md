@@ -6,7 +6,6 @@ Hi 👋 My name is Hamada Emam
 
 <p align="left" >
 <img src="https://user-images.githubusercontent.com/95125518/178091801-cba09c86-32e0-470e-a7f6-78ec1392f1d2.gif" width="180" height="180" />
-<img src="https://user-images.githubusercontent.com/95125518/178091906-c75d7f08-2f00-47c6-bc4e-ac248905f0fe.gif" width="180" height="180" />
 <img src="https://user-images.githubusercontent.com/95125518/178091918-067000e8-91b1-4856-a552-c3c402f67c93.gif" width="180" height="180" />
 <img src="https://user-images.githubusercontent.com/95125518/178092054-227abcaf-fa3a-4377-b8f0-562b3ece4e73.gif" width="180" height="180" />
 <img src="https://user-images.githubusercontent.com/95125518/178092050-5c660b6d-890e-4f33-a60f-fce760fb6bbb.gif" width="180" height="180" />
